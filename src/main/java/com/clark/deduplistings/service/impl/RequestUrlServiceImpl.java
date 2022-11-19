@@ -23,7 +23,7 @@ import java.util.stream.Collectors;
 public class RequestUrlServiceImpl {
 
     private static final String PLACE_KEY_URL = "https://api.placekey.io/v1/placekey";
-    private static final String API_KEY = "PCruseRfB26CdsLO74L09H04RqqASAvy";
+    private static final String API_KEY = "";
     @Autowired
     private RestTemplate restTemplate;
 
